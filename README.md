@@ -1,3 +1,6 @@
+# About this repository
+Note: This repository should be a fork, but it isn't. Bosch removed the original and the one they designated as its successor. This copy contains the driver version along with examples that I once downloaded to my local machine (there was likely no newer version at the time). The code was needed for me to continue working on an old project where I didn’t have the motivation to search for and integrate the latest driver, if one exists.
+
 # Deprecation notice
 This repository is now deprecated. Please refer to the newer version of the same available at https://github.com/BoschSensortec/BMP2-Sensor-API/
 
